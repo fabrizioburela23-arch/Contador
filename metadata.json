@@ -1,0 +1,5 @@
+{
+  "name": "Contaidor",
+  "description": "Procesamiento inteligente de facturas y recibos utilizando Google Gemini para extraer datos contables estructurados.",
+  "requestFramePermissions": []
+}
